@@ -415,4 +415,4 @@ git commit -m "lista A exercicios 1 a 8"
 git push
 ```
 
-Commite várias vezes ao longo das duas semanas, não uma vez só no fim.
+Commite várias vezes ao longo das duas semanas, não uma vez só no f
